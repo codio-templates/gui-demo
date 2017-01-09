@@ -1,0 +1,13 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+  "commands": {
+        "Start demo.py": "python3 demo.py"
+  },
+
+// Preview button configuration
+  "preview": {
+        "Viewer": "https://{{domain3000}}/"
+  }
+}
