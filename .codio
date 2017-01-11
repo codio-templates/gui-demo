@@ -3,7 +3,10 @@
 
 // Run button configuration
   "commands": {
-        "Start demo.py": "python3 demo.py"
+        "Run Python (tkinter)": "python3 tkinterpy/demo.py",
+        "Run Java (Lunar Phases)": "cd swing && java LunarPhases",
+        "SQLite Browser App": "sqlitebrowser",
+        "StarUML": "staruml"
   },
 
 // Preview button configuration
