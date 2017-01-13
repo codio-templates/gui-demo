@@ -6,7 +6,7 @@
         "Run Python (tkinter)": "python3 tkinterpy/demo.py",
         "Run Java (Lunar Phases)": "cd swing && java LunarPhases",
         "SQLite Browser App": "sqlitebrowser",
-        "StarUML": "staruml"
+        "StarUML": "staruml > /dev/null 2>&1"
   },
 
 // Preview button configuration
