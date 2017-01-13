@@ -9,9 +9,9 @@ This project has a few applications to illustrate full UI output support.
 1. In the menu bar, select one of the following demo GUI driven applications
 
 - **Run Python (tkinter)** - shows a simple interactive graph, source is `demo.py` in the `tkinterpy` folder
-- **Run Java (Lunar Phases)** - a java swing applicationm source is in the `swing` folder
+- **Run Java (Lunar Phases)** - a java swing application source is in the `swing` folder
 - **SQLite** - a full database browser for a sqlite database; try opening `workspace/sqlite/chinook.db`
-- **StarUML** - a UML diagram editorl try opening `workspace/staruml/model.mdj`
+- **StarUML** - a UML diagram editor try opening `workspace/staruml/model.mdj`
 
 You can run more than one if you like.
 
