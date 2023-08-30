@@ -1,0 +1,21 @@
+{
+	"id": "d53c9cc3-2ef6-7ea7-3dd5-27f9289f2093",
+	"title": "Running GUI Applications",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "#preview: https://{{domain3050}}",
+			"action": "open"
+		}
+	],
+	"layout": "2-panels",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}
