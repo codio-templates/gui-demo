@@ -1,0 +1,28 @@
+{
+	"id": "f8f70e9d-38b0-62ce-260b-ac14cca5abd0",
+	"title": "Java Swing",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "#terminal: ",
+			"action": "open"
+		},
+		{
+			"path": "#preview: https://{{domain3050}}",
+			"panel": 1,
+			"action": "open"
+		}
+	],
+	"path": [
+		"Swing"
+	],
+	"contentType": "markdown",
+	"type": "page",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": "",
+	"layout": "3-cell-tree"
+}

@@ -1,0 +1,17 @@
+{
+	"id": "7f670103-5e2c-743a-c563-cb988ac5189c",
+	"title": "Getting Started",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		}
+	],
+	"layout": "1-panel",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

@@ -1,0 +1,21 @@
+{
+	"id": "60f8737e-aee0-9ce7-3ada-7850b297b702",
+	"title": "Startup Commands",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": ".codio",
+			"action": "open"
+		}
+	],
+	"layout": "2-panels",
+	"path": [],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

@@ -1,0 +1,28 @@
+{
+	"id": "4f6fbd50-4818-50af-13f9-4cf0d4b30e3f",
+	"title": "JavaFX",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "#terminal: ",
+			"action": "open"
+		},
+		{
+			"path": "#preview: https://{{domain3050}}",
+			"panel": 1,
+			"action": "open"
+		}
+	],
+	"layout": "3-cell-tree",
+	"path": [
+		"JavaFX"
+	],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}

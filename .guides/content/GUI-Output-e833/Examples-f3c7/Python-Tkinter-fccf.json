@@ -1,0 +1,28 @@
+{
+	"id": "fccf5b6b-1258-01fd-efd6-db2d7dfccee9",
+	"title": "Python Tkinter",
+	"files": [
+		{
+			"path": "#tabs",
+			"action": "close"
+		},
+		{
+			"path": "#terminal: ",
+			"action": "open"
+		},
+		{
+			"path": "#preview: https://{{domain3050}}",
+			"panel": 1,
+			"action": "open"
+		}
+	],
+	"layout": "3-cell-tree",
+	"path": [
+		"Tkinter"
+	],
+	"type": "page",
+	"contentType": "markdown",
+	"teacherOnly": false,
+	"closeTerminalSession": true,
+	"learningObjectives": ""
+}
